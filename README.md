@@ -1,5 +1,5 @@
-**so, i did this challange and i must say i'm kinda happy with the finnish product** :tada::tada:
-## it's only Css and HTML done in this project
+## **so, i did this challange and i must say i'm kinda happy with the finnish product** :tada::tada:
+it's only Css and HTML done in this project
 
 ## **Mobile** :+1:
 
