@@ -1,4 +1,4 @@
-**so, i did this [x] challange and i must say i'm kinda happy with the finnish product** :tada::tada:
+**so, i did this challange and i must say i'm kinda happy with the finnish product** :tada::tada:
 
 ## **Mobile** :+1:
 
