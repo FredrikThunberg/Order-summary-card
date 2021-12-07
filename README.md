@@ -1,3 +1,13 @@
+**so, i did this [x]challange and i must say i'm kinda happy with the finnish product** :tada::tada:
+
+** Mobile ** :+1:
+![Alt text](https://github.com/FredrikThunberg/Order-summary-card/blob/main/Order%20summary%20card%20pics/Order%20Summary%20Component%20mobile.png?raw=true)
+
+** 1440/desktop ** :+1:
+![Alt text](https://github.com/FredrikThunberg/Order-summary-card/blob/main/Order%20summary%20card%20pics/Order%20Summary%20Component.png?raw=true)
+
+
+
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
