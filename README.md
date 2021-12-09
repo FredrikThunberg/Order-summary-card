@@ -2,8 +2,8 @@
 
 **so, i did this challenge and i must say i'm kinda happy with the finnish product** :tada::tada:
 
-First Header  | 
-------------- | 
+First Header  | Link
+------------- | ------------- 
 HTML  | 
 Sass  | [Sass](https://sass-lang.com/)
 
