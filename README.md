@@ -8,7 +8,7 @@ HTML  |
 Css  | 
 
 <br>
-* it's only Css and HTML done in this project *
+
 
 
 ## **Mobile** :+1:
